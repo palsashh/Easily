@@ -4,7 +4,7 @@ export const jobs = [
         jobCategory: 'Tech',
         jobDesignation: 'SDE',
         jobLocation: 'Gurgaon HR IND Remote',
-        companyName: 'Coding Ninjas',
+        companyName: 'Ixigo',
         salary: '14-20lpa',
         applyBy: '30 Aug 2023',
         skillsRequired: ['REACT', 'NodeJs', 'JS', 'SQL', 'MongoDB', 'Express', 'AWS'],
